@@ -1,0 +1,3 @@
+2025-08-18 11:59:41.771 - RedPanda Publisher Starting...
+2025-08-18 11:59:47.536 - Connected to RedPanda at localhost:9092
+2025-08-18 11:59:47.537 - Sending 100 warm-up messages

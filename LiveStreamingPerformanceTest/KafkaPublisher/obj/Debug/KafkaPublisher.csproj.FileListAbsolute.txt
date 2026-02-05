@@ -1,0 +1,11 @@
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\KafkaPublisher.exe.config
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\KafkaPublisher.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\KafkaPublisher.pdb
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\kafka-net.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\obj\Debug\KafkaPublisher.csproj.AssemblyReference.cache
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\obj\Debug\KafkaPublisher.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\obj\Debug\KafkaPublisher.csproj.CopyComplete
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\obj\Debug\KafkaPublisher.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaPublisher\obj\Debug\KafkaPublisher.pdb

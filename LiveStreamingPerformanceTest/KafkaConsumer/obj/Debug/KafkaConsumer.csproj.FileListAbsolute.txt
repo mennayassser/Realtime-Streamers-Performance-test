@@ -1,0 +1,10 @@
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\KafkaConsumer.exe.config
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\KafkaConsumer.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\KafkaConsumer.pdb
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\kafka-net.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\obj\Debug\KafkaConsumer.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\obj\Debug\KafkaConsumer.csproj.CopyComplete
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\obj\Debug\KafkaConsumer.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\KafkaConsumer\obj\Debug\KafkaConsumer.pdb

@@ -1,0 +1,11 @@
+2025-08-18 11:33:47.265 - RedPanda Publisher Starting...
+2025-08-18 11:33:57.187 - Connected to RedPanda cluster at localhost:9092
+2025-08-18 11:33:57.189 - Starting warm-up phase with 100 messages
+2025-08-18 11:34:27.712 - Failed to send message 1: One or more errors occurred.
+2025-08-18 11:34:27.723 - ERROR: One or more errors occurred.
+2025-08-18 11:34:27.743 - Stack Trace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at RedPandaPublisher.Program.SendMessages(Producer producer, Int32 messageCount, String phase) in C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\Program.cs:line 130
+   at RedPandaPublisher.Program.RunPerformanceTest() in C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\Program.cs:line 54
+   at RedPandaPublisher.Program.Main(String[] args) in C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\Program.cs:line 30

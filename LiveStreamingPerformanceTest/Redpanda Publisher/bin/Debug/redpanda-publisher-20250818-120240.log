@@ -1,0 +1,6 @@
+2025-08-18 12:02:40.807 - RedPanda Publisher Starting...
+2025-08-18 12:02:46.896 - Connected to RedPanda at localhost:9093
+2025-08-18 12:02:46.897 - Sending 100 warm-up messages
+2025-08-18 12:03:17.214 - Error sending message 1: One or more errors occurred.
+2025-08-18 12:03:47.406 - Error sending message 2: One or more errors occurred.
+2025-08-18 12:04:17.537 - Error sending message 3: One or more errors occurred.

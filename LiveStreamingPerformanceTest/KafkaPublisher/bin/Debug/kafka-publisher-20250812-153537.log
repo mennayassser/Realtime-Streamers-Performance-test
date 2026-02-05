@@ -1,0 +1,3 @@
+2025-08-12 15:35:37.569 - Kafka Publisher Starting...
+2025-08-12 15:35:45.346 - Connected to Kafka broker
+2025-08-12 15:35:46.353 - Starting warm-up phase with 100 messages

@@ -1,0 +1,6 @@
+~$*.docx
+
+# Ignore Visual Studio temp files
+.vs/
+*.user
+*.suo

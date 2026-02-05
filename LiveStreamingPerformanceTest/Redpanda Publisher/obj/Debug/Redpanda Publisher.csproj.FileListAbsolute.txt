@@ -1,0 +1,11 @@
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\obj\Debug\Redpanda Publisher.csproj.CoreCompileInputs.cache
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\obj\Debug\Redpanda Publisher.csproj.AssemblyReference.cache
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\Redpanda Publisher.exe.config
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\Redpanda Publisher.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\Redpanda Publisher.pdb
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\kafka-net.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\obj\Debug\Redpanda Publisher.csproj.CopyComplete
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\obj\Debug\Redpanda Publisher.exe
+C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Redpanda Publisher\obj\Debug\Redpanda Publisher.pdb

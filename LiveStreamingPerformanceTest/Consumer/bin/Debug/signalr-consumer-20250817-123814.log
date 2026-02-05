@@ -1,0 +1,6 @@
+2025-08-17 12:38:14.996 - SignalR Consumer Starting...
+2025-08-17 12:38:19.970 - ERROR: An error occurred while sending the request.
+2025-08-17 12:38:20.018 - Stack Trace:    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at SignalRPublisher.Program.<Main>d__6.MoveNext() in C:\Users\menna\source\repos\LiveStreamingPerformanceTest\Consumer\Program.cs:line 37
